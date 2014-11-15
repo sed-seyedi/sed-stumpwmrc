@@ -6,7 +6,7 @@ iq is a full screen window manager that does not get in your way. it's ultimate 
 uniqueness
 ==========
 
--every app is in full screen. 
+- every app is in full screen. 
 
 -it has no eyecandy. there is no panel. there is no widget.
 
