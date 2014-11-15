@@ -8,7 +8,7 @@ uniqueness
 
 - every app is in full screen. 
 
-- it has no eyecandy. there is no panel. there is no widget.
+- there is 0 eye-candy.
 
 - it is smart. basiclay iq takes care of your repetitive desktop management tasks.
 
@@ -21,6 +21,15 @@ uniqueness
 - iq leaves your mod, super and alt keys alone... instead it uses F9 as the default scape key.
 
 - use F8 to switch between current and last-checked window. 
+
+
+installation
+============
+
+1. install stumpwm (it's available in all major linux repos)
+2. download iq (put in the same directory as your .stumpwmrc file)
+3. add (require iq) to your .stumwmrc file!
+
 
 
 
