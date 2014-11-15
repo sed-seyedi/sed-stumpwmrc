@@ -1,7 +1,7 @@
 iq
 ==
 
-iq is a full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive. it's dependent on stumpwm. basicly iq is a config file for stumpwm but it extends and changes it in good ways.
+iq is a full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive. it's dependent on stumpwm (an awesome, mature and hackable wm). basicly iq is a config file for stumpwm but it extends and changes it in good ways.
 
 uniqueness
 ==========
