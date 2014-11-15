@@ -27,8 +27,11 @@ installation
 ============
 
 1. install stumpwm (it's available in all major linux repos)
-2. download iq (put in the same directory as your .stumpwmrc file)
-3. add (require iq) to your .stumwmrc file!
+2. download iq .stumpwmrc (it's stumpwm default config file .stumpwmrc file)
+3. backup then replace your current .stumwmrc with the one downloaded from iq
+
+where is my .stumwmrc file?   ~/.stumpwmrc  (for debian)
+what about other distros?  i do not know!
 
 
 
