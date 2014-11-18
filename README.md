@@ -1,7 +1,7 @@
-IQ
-==
+my-stumpwm-setup
+================
 
-IQ is a full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive.
+my-stumpwm-setup is a full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive.
 
 
 Installation
