@@ -19,16 +19,20 @@ Tutorial
 Please note that every app is in full screen! there is no side-by-side view!  (however you can use Stumpwm for that)
 
 <b>open firefox or go to firefox if already open</b>
-Press <kbd>F9</kbd> then <kbd>f</kbd> 
-
+<br/>
+<kbd>F9</kbd> <kbd>f</kbd> 
+<br/><br/>
 <b>Open emacs or go to emacs if already open</b>
-Press <kbd>F9</kbd> then <kbd>e</kbd> 
-
+<br/>
+<kbd>F9</kbd> <kbd>e</kbd> 
+<br/><br/>
 <b>To run a command or open an app</b> 
-Press <kbd>F9</kbd> then <kbd>!</kbd> 
-
+<br/>
+<kbd>F9</kbd> <kbd>!</kbd> 
+<br/><br/>
 <b>Switch between current window and last window</b> 
-Press <kbd>F8</kbd>
+<br/>
+<kbd>F8</kbd>
 
 
  
