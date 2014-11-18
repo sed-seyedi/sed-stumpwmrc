@@ -1,15 +1,14 @@
 my-stumpwm-setup
 ================
 
-my-stumpwm-setup is a full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive.
+my-stumpwm-setup is configuration file for awesome Stumpwm it turns yoru Stumpwm into an awesome full screen window manager that does not get in your way. it's ultimate goal is to help you be more productive.
 
 
-Installation
-============
+##Installation
 
-1. Go to your website and download your own customized version of IQ.
-2. IQ is basically an extension for Stumpwm (an awesome extensible window manager) so you first have to install stumpwm. Stumpwm is very popular so you can easily find it in your favorite linux distro repository. Good thing is that IQ works with almost any version of Stumpwm.
-3. Replace the content of your ~/.stumpwmrc file (the main stumpwm config file) with IQ.lisp
+1. Install Stumpwm.
+2. Go to my-stumpwm-setup and download your stumpwmrc file.
+3. Replace your current ~/.stumpwmrc file with the one you have downloaded.
 4. reload your config file, or restart your computer.
 
 
