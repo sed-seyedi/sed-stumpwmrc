@@ -18,7 +18,7 @@ Tutorial
 
 Please note that every app is in full screen! there is no side-by-side view!  (however you can use Stumpwm for that)
 
- **To run a command (open an app): ** <kbd>F9</kbd>  <kbd>!</kbd> 
+ <b>To run a command (open an app): </b> <kbd>F9</kbd>  <kbd>!</kbd> 
 
 
  
