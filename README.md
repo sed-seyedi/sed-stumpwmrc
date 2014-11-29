@@ -1,9 +1,9 @@
-this is my-stumpwmrc (config file for stumpwm window manager). I believe it should be useful and/or interesting to many.
+This is my-stumpwmrc (config file for stumpwm window manager). I believe it should be useful and/or interesting to many.
 
-once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me. A blank screen is what I love (usually blue) to start with.  Then I start commanding the computer and see the result of things I want from it. That's what I call a desktop environment that get's the hell out of my way.
+Once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me. A blank screen is what I love (usually blue) to start with.  Then I start commanding the computer and see the result of things I want from it. That's what I call a desktop environment that get's the hell out of my way.
 
 
-on my computer everything is in full screen. no tiling or stacking windows. KISS... keep it simple stupid!
+On my computer everything is in full screen. No tiling or stacking windows. KISS... keep it simple stupid!
 
 If I want to open firefox I press <kbd>F9</kbd> and then <kbd>f</kbd>. 
 
@@ -11,13 +11,13 @@ To computer these key seq means:
 <kbd>F9</kbd>: hey... here is what I want you to do. The default is C-t 
 <kbd>f</kbd>:  switch to the firefox window or start firefox if it's not yet runnyng
 
-lets start a terminal window... <kbd>F9</kbd> <kbd>t</kbd>
+Lets start a terminal window... <kbd>F9</kbd> <kbd>t</kbd>
 
-lets open emacs... <kbd>F9</kbd> <kbd>e</kbd>
+Lets open emacs... <kbd>F9</kbd> <kbd>e</kbd>
 
-now I want to go back to firefox... <kbd>F9</kbd> <kbd>f</kbd>
+Now I want to go back to firefox... <kbd>F9</kbd> <kbd>f</kbd>
 
-press <kbd>F8</kbd> if you want to switch between last 2 window (emacs & firefox)...
+Press <kbd>F8</kbd> if you want to switch between last 2 window (emacs & firefox)...
 
 F8 ... and I'm back at my emacs window...
 
@@ -35,7 +35,7 @@ So if you are interested in the way my-stumwmrc work just grab the source code, 
 
 If you do not know what stumpwm is... it's basically a very hackable window manager.
 
-Have fun!
+Have fun! && never stop hacking!
 
 
 
