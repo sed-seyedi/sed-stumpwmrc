@@ -17,11 +17,21 @@ If you already know touch-typing then continue. Else, learn Dvorak.
 
 Keyboard is the key
 ===================
-Buy a good keyboard. I reccomend TypeMatrix.
+I reccomend TypeMatrix. Don't use a laptop keyboard.
 
 
-The bigger the monitor the better
-=================================
+19" is the minimum
+==================
+You need a monitor (preferably LED) that is at least 19"
+
+
+Learn Gnu+Linux & terminal (bash)
+=============================
+Start by Ubuntu.
+
+
+
+
 
 
 
