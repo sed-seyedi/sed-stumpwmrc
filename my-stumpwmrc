@@ -71,11 +71,6 @@
 (defcommand chromium() () (run-or-raise "chromium" '(:class "Chromium")) (message "Chromium"))
 (define-key *root-map* (kbd "c") "chromium")
 
-;; sakura
-(defcommand sakura() ()
-(run-or-raise "sakura" '(:class "Sakura")) (message "Sakura"))
-(define-key *root-map* (kbd "s") "sakura")
-
 ;; terminator
 (defcommand terminator() ()
 (run-or-raise "terminator" '(:class "Terminator")) (message "Terminator"))
