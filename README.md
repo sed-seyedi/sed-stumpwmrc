@@ -8,7 +8,7 @@ On my computer everything is in full screen. 29" of realstate for every app! No 
 If I want to open firefox I press <kbd>F9</kbd> and then <kbd>f</kbd>. 
 
 To computer these key seq means:
-<kbd>F9</kbd>: hey... here is what I want you to do. The default is C-t 
+<kbd>F9</kbd>: hey... here is what I want you to do.
 <kbd>f</kbd>:  switch to the firefox window or start firefox if it's not yet runnyng
 
 Lets start a terminal window... <kbd>F9</kbd> <kbd>t</kbd>
