@@ -25,7 +25,7 @@ Neat ha?
 
 There is no numbers... tags... or anything to remember just the first letter of the the apps. Too bad this will never work on mac... everything starts with i... :)
 
-So why <kbd>F9<kbd> and <kbd>F8</kbd>... 
+So why <kbd>F9</kbd> and <kbd>F8</kbd>... 
 
 - very few apps use them.
 - easy to reach with the most powerful fingers of the right hand.
