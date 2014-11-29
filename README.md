@@ -3,7 +3,7 @@ This is my-stumpwmrc (config file for stumpwm window manager). I believe it shou
 Once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me. A blank screen is what I love (usually blue) to start with.  Then I start commanding the computer and see the result of things I want from it. That's what I call a desktop environment that get's the hell out of my way.
 
 
-On my computer everything is in full screen. No tiling or stacking windows. KISS... keep it simple stupid!
+On my computer everything is in full screen. 29" of realstate for every app! No tiling or stacking windows. KISS... keep it simple stupid!
 
 If I want to open firefox I press <kbd>F9</kbd> and then <kbd>f</kbd>. 
 
