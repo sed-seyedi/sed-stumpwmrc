@@ -1,47 +1,41 @@
-Efficent programmer
-===================
-I live only once, and I want to make it count!
+this is my way of managing my windows. I believe it should be useful and/or at least interesting to many.
 
-Programming is awesome! it's like dancing with pure logic... even the bugs are a playful tease. If you have the same feelings for programming then this guide myght be useful to you.
+once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me. A blank screen is what I love (usually blue) to start with.  Then I start commanding the computer and see the result of things I want from it. That's what I call a desktop environment that get's the hell out of my way.
 
 
-Master Googling
-===============
-A true programmer is also a master of finding things out. If you are not able to figure things out practice it.
+on my computer everything is in full screen. no tiling windows (I explain later why) 
 
-For example what is domain address and how can one register a domain address using a programming languge (like PHP) on behalf of someone else.
+If I want to open firefox I press F9 and then f. 
 
-Touch typing
-============
-If you already know touch-typing then continue. Else, learn Dvorak.  
+To computer these key seq means:
+F9: hey... here is what I want you to do. 
+f:  switch to the firefox window or start firefox if it's not yet runnyng
 
-Keyboard is the key
-===================
-I reccomend TypeMatrix. Don't use a laptop keyboard.
+lets start a terminal window... F9 t
 
+lets open emacs. easy... F9 e
 
-19" is the minimum
-==================
-You need a monitor (preferably LED) that is at least 19"
+now I want to go back to firefox... F9 f
 
+press F8 if you want to switch between last to visited windows...
 
-Learn Gnu+Linux & terminal (bash)
-=============================
-Start by Ubuntu.
+F8 ... and I'm back at my emacs window...
 
+Neat ha? 
 
+There is no numbers... tags... or anything to remember just the first letter of the the apps. Too bad this will never work on mac... everything starts with i... :)
 
+So why F9 and F8... 
 
+- very few apps use them.
+- easy to reach with the most powerful fingers of the right hand.
+- no need to mess around with your alt or ctrl key... which is good for a lot of emacs users.
 
+So if you are interested in the way this way of computing... then grab my-stumpwmrc and through it at your stumpwm.
 
+If you do not know what stumpwm is... it's basically a very hackable window manager you can easily install it on your favorite linux distro from their repos.
 
-
-
-
-
-
-
-
+Have fun!
 
 
 
