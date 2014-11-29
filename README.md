@@ -1,4 +1,4 @@
-this is my-stumpwmrc (configuratioun for stumpwm window manager). I believe it should be useful and/or interesting to many.
+this is my-stumpwmrc (config file for stumpwm window manager). I believe it should be useful and/or interesting to many.
 
 once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me. A blank screen is what I love (usually blue) to start with.  Then I start commanding the computer and see the result of things I want from it. That's what I call a desktop environment that get's the hell out of my way.
 
