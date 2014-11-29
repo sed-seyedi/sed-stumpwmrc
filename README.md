@@ -2,7 +2,7 @@ Efficent programmer
 ===================
 I live only once, and I want to make it count!
 
-Programming is awesome! it's like dancing with pure logic... even the bugs are a playful tease. If you have the same feeling for programming then this guide myght be helpful to you.
+Programming is awesome! it's like dancing with pure logic... even the bugs are a playful tease. If you have the same feelings for programming then this guide myght be useful to you.
 
 
 Master Googling
@@ -17,7 +17,11 @@ If you already know touch-typing then continue. Else, learn Dvorak.
 
 Keyboard is the key
 ===================
+Buy a good keyboard. I reccomend TypeMatrix.
 
+
+The bigger the monitor the better
+=================================
 
 
 
