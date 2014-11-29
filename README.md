@@ -5,7 +5,7 @@ once I log in to my computer I see a welcome message. That's when I know it's re
 
 on my computer everything is in full screen. no tiling windows (I explain later why) 
 
-If I want to open firefox I press F9 and then f. 
+If I want to open firefox I press <kbd>F9</kbd> and then f. 
 
 To computer these key seq means:
 F9: hey... here is what I want you to do. 
