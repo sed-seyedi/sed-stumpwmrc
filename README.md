@@ -10,7 +10,7 @@ If I want to open firefox I press <kbd>F9</kbd> and then <kbd>f</kbd>.
 To computer these key seq means:
 <br/>
 <kbd>F9</kbd>: hey... here is what I want you to do. <br/>
-<kbd>f</kbd>:  switch to the firefox window or start firefox if it's not yet runnyng <br/>
+<kbd>f</kbd>:  switch to the firefox window or start firefox if it's not yet running <br/>
 
 Lets start a terminal window... <kbd>F9</kbd> <kbd>t</kbd>
 
