@@ -5,19 +5,19 @@ once I log in to my computer I see a welcome message. That's when I know it's re
 
 on my computer everything is in full screen. no tiling windows (I explain later why) 
 
-If I want to open firefox I press <kbd>F9</kbd> and then f. 
+If I want to open firefox I press <kbd>F9</kbd> and then <kbd>f</kbd>. 
 
 To computer these key seq means:
-F9: hey... here is what I want you to do. 
-f:  switch to the firefox window or start firefox if it's not yet runnyng
+<kbd>F9</kbd>: hey... here is what I want you to do. 
+<kbd>f</kbd>:  switch to the firefox window or start firefox if it's not yet runnyng
 
-lets start a terminal window... F9 t
+lets start a terminal window... <kbd>F9</kbd> <kbd>t</kbd>
 
-lets open emacs. easy... F9 e
+lets open emacs. easy... <kbd>F9</kbd> <kbd>e</kbd>
 
-now I want to go back to firefox... F9 f
+now I want to go back to firefox... <kbd>F9</kbd> <kbd>f</kbd>
 
-press F8 if you want to switch between last to visited windows...
+press <kbd>F8</kbd> if you want to switch between last to visited windows...
 
 F8 ... and I'm back at my emacs window...
 
@@ -25,7 +25,7 @@ Neat ha?
 
 There is no numbers... tags... or anything to remember just the first letter of the the apps. Too bad this will never work on mac... everything starts with i... :)
 
-So why F9 and F8... 
+So why <kbd>F9<kbd> and <kbd>F8</kbd>... 
 
 - very few apps use them.
 - easy to reach with the most powerful fingers of the right hand.
