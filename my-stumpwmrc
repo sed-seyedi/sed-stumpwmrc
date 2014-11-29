@@ -1,0 +1,104 @@
+;;;;;;;;;;;;;;;;;;;;;;;
+;; set prefix key to F9
+;;;;;;;;;;;;;;;;;;;;;;;
+(stumpwm:set-prefix-key (stumpwm:kbd "F9"))
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+;;  some basic settings
+;;;;;;;;;;;;;;;;;;;;;;;;
+(setf *window-name-source* :class)
+(setf *input-window-gravity* :center)
+(setf *message-window-gravity* :center)
+; other options instead of ":sloppy" => :ignore :sloppy :click
+(setf *mouse-focus-policy* :sloppy) 
+
+;some basic window settings
+(setf *normal-border-width* 1)
+(setf *maxsize-border-width* 1)
+(setf *transient-border-width* 1)
+
+(defparameter FOREGROUND-COLOR "green")
+(defparameter BACKGROUND-COLOR "#262A22")
+(defparameter BORDER-COLOR "green")
+
+; window boroder
+(set-focus-color "#262A22")
+(set-unfocus-color "#262A22")
+(set-win-bg-color "#262A22")
+
+(setf *startup-message* ())
+; change this message
+(setf *startup-message* "Hi You, Never Stop Hacking!")
+
+; message
+(set-fg-color "green")
+(set-bg-color "#242424")
+(set-border-color "green")
+(set-msg-border-width 1)
+(set-win-bg-color "#242424")
+;; popup window width
+(setf *transient-border-width* 2)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Core COMMAND SHORT CUTS
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; window list
+(define-key *root-map* (kbd "w") "windowlist")
+(define-key *root-map* (kbd "C-w") "windows")
+; I set abort to "g" because it the same key for emacs
+(define-key *root-map* (kbd "g") "abort")
+(define-key *root-map* (kbd "ESC") "abort")
+(define-key *top-map* (kbd "F8") "pull-hidden-other")
+(define-key *root-map* (kbd "M-SPC") "pull-hidden-next")
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Command Definitons & their key bindings
+;; use any of these as a template to create
+;; your own key bindings for your own apps
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; dmenu
+(defcommand dmenu() ()
+(run-shell-command "dmenu_run"))
+(define-key *root-map* (kbd "M-d") "dmenu")
+
+;; iceweasel
+(defcommand iceweasel() ()
+(run-or-raise  "iceweasel" '(:class "Iceweasel"))(message "Iceweasel"))
+(define-key *root-map* (kbd "i") "iceweasel")
+
+;; chromium
+(defcommand chromium() () (run-or-raise "chromium" '(:class "Chromium")) (message "Chromium"))
+(define-key *root-map* (kbd "c") "chromium")
+
+;; sakura
+(defcommand sakura() ()
+(run-or-raise "sakura" '(:class "Sakura")) (message "Sakura"))
+(define-key *root-map* (kbd "s") "sakura")
+
+;; terminator
+(defcommand terminator() ()
+(run-or-raise "terminator" '(:class "Terminator")) (message "Terminator"))
+(define-key *root-map* (kbd "t") "terminator")
+
+;; emacs 
+(defcommand emacs() ()
+(run-or-raise "emacs" '(:class "Emacs"))(message "Emacs"))
+(define-key *root-map* (kbd "M-e") "emacs")
+
+;; pcmanfm
+(defcommand pcmanfm() ()
+(run-or-raise "pcmanfm" '(:class "Pcmanfm"))(message "pcmanfm"))
+(define-key *root-map* (kbd "M-p") "pcmanfm")
+
+;; lock screen (install required: xtrlock)
+(defcommand lock-screen()()
+(run-shell-command "xtrlock")(message "screen is locked!"))
+(define-key *root-map* (kbd "l") "lock-screen")
+
+;; take screenshot region
+(defcommand region-screen-shot()()
+(run-shell-command "gnome-screenshot -a"))
+(define-key *root-map* (kbd ",") "region-screen-shot")
+
+
