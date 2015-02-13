@@ -18,12 +18,7 @@ Press <kbd>F8</kbd> if you want to switch between last 2 windows (emacs & firefo
 
 Neat ha? 
 
-There is no numbers... tags... or anything to remember. Too bad this will never work on mac... everything starts with i... :)
-
-So why <kbd>F9</kbd> and <kbd>F8</kbd>... 
-
-- easy to reach with the most powerful fingers of the right hand.
-- no need to mess around with your alt or ctrl key... which is good for a lot of emacs users.
+There is no numbers... tags... or anything to remember. Too bad this will never work on mac... everything starts with an i... :)
 
 So if you are interested in the way my-stumpwmrc work just grab the source code, read thourgh it (it's very short) you will need to alter it a bit... then through it at your stumpwm.
 
