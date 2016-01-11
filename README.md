@@ -24,9 +24,6 @@ So if you are interested in the way my-stumpwmrc work just grab the source code,
 
 If you do not know what stumpwm is... it's basically a very hackable window manager.
 
-(and '(Have fun!) '(never stop hacking!))
 
-
-
-
+'(Be Happy)
 **Sed**
