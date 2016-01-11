@@ -26,4 +26,5 @@ If you do not know what stumpwm is... it's basically a very hackable window mana
 
 
 '(Be Happy)
+
 **Sed**
