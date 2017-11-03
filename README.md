@@ -1,4 +1,6 @@
-# Sed Stumpwmrc (config file for stumpwm window manager)
+# Sed Stumpwmrc 
+
+Config file for stumpwm window manager.
 
 # What?
 
@@ -10,7 +12,7 @@ Well, just imagine your favorite application in fullscreen mode!
 
 # Why?
 
-I just cannot work in an envorinment like Windows, MacOS or even Gnome3. They are all distracting and it's very painful to switch between to applications. Also, I hate the mouse.
+I just cannot work in a desktop envorinment (e.g. Windows, MacOS or even Gnome3). They are all distracting and it's very painful to switch between applications. Also, I hate the mouse!
 
 # How?
 
