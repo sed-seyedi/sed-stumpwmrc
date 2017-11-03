@@ -1,20 +1,19 @@
 # Sed Stumpwmrc 
 
-Config file for stumpwm window manager.
 
-# What?
+## What?
 
 A full screen window manager setup that gets out of your way.
 
-# Screenshots
+## Screenshots
 
 Well, just imagine your favorite application in fullscreen mode!
 
-# Why?
+## Why?
 
 I just cannot work in a desktop envorinment (e.g. Windows, MacOS or even Gnome3). They are all distracting and it's very painful to switch between applications. Also, I hate the mouse!
 
-# How?
+## How?
 
 Once I log in to my computer I see a welcome message. That's when I know it's ready to accept my commands. There is nothing else to distract me!
 
